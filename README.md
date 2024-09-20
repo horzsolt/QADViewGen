@@ -1,1 +1,1 @@
-# QADBrowser
+# QAD ALTER VIEW generator
